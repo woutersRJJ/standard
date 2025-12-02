@@ -1,7 +1,5 @@
-import {firestoreDatabase} from "./connectDB";
+import {firestoreDatabase} from "./firestore";
 
-/*Collectie onbekend returns []
-Collectie leeg returns []*/
 export async function getCollection(collection){
     if (!firestoreDatabase) return [];
     const result=await firestoreDatabase.collection(collection).get();
