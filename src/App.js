@@ -1,4 +1,5 @@
 import './App.css';
+import './services/firestore'
 
 function App() {
   return (
