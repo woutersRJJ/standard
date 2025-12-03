@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.8d79c9cb.css",
+    "main.js": "./static/js/main.d5fce373.js",
+    "static/js/453.4e06364f.chunk.js": "./static/js/453.4e06364f.chunk.js",
+    "static/media/sclessin.png": "./static/media/sclessin.0993282c5254892cecf8.png",
+    "static/media/logo.png": "./static/media/logo.b1ecfe7beffe54ae7a98.png",
+    "index.html": "./index.html",
+    "main.8d79c9cb.css.map": "./static/css/main.8d79c9cb.css.map",
+    "main.d5fce373.js.map": "./static/js/main.d5fce373.js.map",
+    "453.4e06364f.chunk.js.map": "./static/js/453.4e06364f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d79c9cb.css",
+    "static/js/main.d5fce373.js"
+  ]
+}
