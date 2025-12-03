@@ -18,7 +18,7 @@ export function Legends(){
 
 function Legend({legend}){
     return <div className='speler'>
-        <div>{legend.naam} {legend.voornaam}</div>
+        <div style={{marginTop: '10px'}}>{legend.naam} {legend.voornaam}</div>
         <div>Geboren {legend.geboortejaar}</div>
         <div>{legend.nationaliteit}</div>
         <div>{legend.debuutseizoen}-{legend.eindseizoen}</div>
