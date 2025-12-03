@@ -42,17 +42,26 @@ button{
 }
 
 .speler{
-    background-color: pink;
+    background-color: red;
+    color:white;
     width: 45%;
     float: left;
     margin: 2vw;
     border-radius: 4px;
     text-align: center;
-    height: 280px;
+    height: 250px;
 }
 
 ul{
     display: inline-block;
     margin: 0 10px 10px 0;
     text-align: left;
+}
+
+img{
+    margin:25px;
+}
+
+li{
+    list-style:square
 }
